@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dịch Vụ Giám Định & Chứng Nhận Khử Trùng VietnamControl</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            background-color: #f4f4f4;
+            margin: 0;
+        }
+        header, footer {
+            background-color: #2e8b57;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        header h1, footer p {
+            margin: 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: auto;
+            padding: 20px;
+        }
+        .hero {
+            background: #2e8b57;
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        .services, .about, .contact, .partners {
+            padding: 20px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        .services h2, .about h2, .contact h2, .partners h2 {
+            color: #2e8b57;
+        }
+        .cta-button {
+            background-color: #2e8b57;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>VietnamControl Quảng Ninh</h1>
+    <nav>
+        <a href="#services">Dịch vụ</a>
+        <a href="#about">Hồ sơ năng lực</a>
+        <a href="#contact">Liên hệ</a>
+    </nav>
+</header>
+
+<div class="hero">
+    <h2>Giải pháp khử trùng và giám định hàng đầu tại Quảng Ninh</h2>
+    <p>Đảm bảo an toàn và chất lượng hàng hóa xuất nhập khẩu.</p>
+    <a href="#contact" class="cta-button">Liên hệ ngay</a>
+</div>
+
+<div class="container">
+
+    <section id="services" class="services">
+        <h2>Dịch Vụ</h2>
+        <ul>
+            <li><strong>Khử trùng hàng hóa xuất nhập khẩu</strong> - Theo tiêu chuẩn ISPM 15, sử dụng các phương pháp an toàn.</li>
+            <li><strong>Giám định hàng hóa</strong> - Giám định chất lượng, số lượng, giám sát quá trình đóng gói.</li>
+            <li><strong>Chứng nhận hợp chuẩn và hợp quy</strong> - Đảm bảo hàng hóa đáp ứng tiêu chuẩn quốc tế và quốc gia.</li>
+        </ul>
+    </section>
+
+    <section id="about" class="about">
+        <h2>Hồ Sơ Năng Lực</h2>
+        <p>VietnamControl có hơn 10 năm kinh nghiệm trong lĩnh vực giám định và khử trùng, với các chứng nhận quốc tế như ISO 9001, 14001, 45001. Đội ngũ chuyên gia được đào tạo bài bản và tận tâm, đã thực hiện thành công hàng nghìn dự án khử trùng.</p>
+    </section>
+
+    <section id="partners" class="partners">
+        <h2>Đối Tác Đã Tin Dùng</h2>
+        <p>VietnamControl hợp tác với nhiều đối tác lớn trong và ngoài nước, cam kết mang đến dịch vụ chất lượng cao và uy tín hàng đầu.</p>
+    </section>
+
+    <section id="contact" class="contact">
+        <h2>Liên Hệ</h2>
+        <div class="contact-info">
+            <p><strong>Hotline:</strong> 0815212591</p>
+            <p><strong>Email:</strong> cuongdv.qn@vietnamcontrol.com</p>
+            <p><strong>Địa chỉ:</strong> Ô số 20, Lô LK03, Khu dịch vụ hậu cần - Cảng Cái Lân, Phường Bãi Cháy, Tỉnh Quảng Ninh</p>
+        </div>
+    </section>
+
+</div>
+
+<footer>
+    <p>© 2024 VietnamControl. Bảo lưu mọi quyền.</p>
+</footer>
+
+</body>
+</html>
